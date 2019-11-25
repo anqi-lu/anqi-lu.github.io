@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Anqi Lu | 陆安琪
 
-You can use the [editor on GitHub](https://github.com/anqi-lu/anqi-lu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, just another human being originally from China, went to school in the United States, and landed a job as software engineer at Google. I enjoy eating food, going places (as long as my visa allows), and taking [pictures](https://unsplash.com/@alu213000) when I go places.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Volunteering 
 
-### Markdown
+I'm currently volunteering as a teaching assistant for Intro to Computer Science at Excel High School in South Boston as part of [TEALS](https://www.microsoft.com/en-us/teals) program. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the past, I taught English as part of the [Women's Empowerment project](https://volunteeringjourneys.com/womens-empowerment-volunteer-india/) in Fort Kochi, Kerala.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anqi-lu/anqi-lu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Working on
+- Swimming: not knowing how to swim was a roadblock for me doing things related to water. (It didn't prevent me from surfing, but it was terrifying when I fell off the surfboard.) I'm currently taking swimming lessons and my favourite swimming style is actually butterfly 🦋
+- Mindfulness: I've recently completed a 8-weeks Mindfulness course where I learned various methods of bring mindfulness in life (meditation, mindful yoga, mindful walking, and mindful eating). I'm trying to continue the journey by practicing every day! 
