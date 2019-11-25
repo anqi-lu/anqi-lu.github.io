@@ -1,6 +1,6 @@
 ## Anqi Lu | 陆安琪
 
-Hi, just another human being originally from China, went to school in the United States, and landed a job as software engineer at Google. I enjoy eating food, going places (as long as my visa allows), and taking [pictures](https://unsplash.com/@alu213000) when I go places.  
+Hi, just another human being - originally from China, went to school in the United States, and landed a job as software engineer at Google. I enjoy eating food, going places (as long as my visa allows), and taking [pictures](https://unsplash.com/@alu213000) when I go places.  
 
 ### Volunteering 
 
